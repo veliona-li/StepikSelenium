@@ -1,1 +1,1 @@
-# StepikSelenium
+# решение задач курса Автоматизация тестирования с помощью Selenium и Python на платфоре Stepik
